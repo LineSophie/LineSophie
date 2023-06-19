@@ -11,6 +11,7 @@ I'm a self-taught coder with a background in business administration. These days
 ![alt text](https://img.shields.io/badge/HTML5-ff69b4)
 ![alt text](https://img.shields.io/badge/CSS3-ff69b4)
 ![alt text](https://img.shields.io/badge/DJANGO-ff69b4)
+![alt text](https://img.shields.io/badge/REACT-ff69b4)
 <br>
 
 ## 💬 Let's chat!
