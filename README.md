@@ -1,7 +1,7 @@
 
 Hey there! 👋
 ======
-I'm a self-taught coder with a background in business administration. These days, you'll find me working on all sorts of exciting projects, from crafting slick web apps to tinkering with complex algorithms - I love exploring the endless possibilities of code. 
+I'm a self-taught coder with a background in business administration. These days, you'll find me working on all sorts of projects, from crafting web apps to tinkering with complex algorithms - I love exploring the endless possibilities of code. 
 <br>
 
 ##  ⚒️ Tools / Languages 
